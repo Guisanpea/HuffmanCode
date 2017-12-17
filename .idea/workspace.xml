@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7168ac5e-e996-4d68-a3ec-3ccadf389ad0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Huffman.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/greedyAlgorithms/HuffmanCode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/greedyAlgorithms/HuffmanTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/greedyAlgorithms/HuffmanTuple.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/greedyAlgorithms/TestHuffman.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/greedyAlgorithms/Tree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Huffman/greedyAlgorithms/HuffmanCode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Huffman/greedyAlgorithms/HuffmanTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Huffman/greedyAlgorithms/HuffmanTuple.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Huffman/greedyAlgorithms/TestHuffman.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Huffman/greedyAlgorithms/Tree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/quijote-decoded.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/quijote-encoded.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/quijote.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/greedyAlgorithms/HuffmanCode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/greedyAlgorithms/HuffmanTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/greedyAlgorithms/HuffmanTuple.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/greedyAlgorithms/TestHuffman.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/greedyAlgorithms/Tree.java" />
-    </list>
+    <list default="true" id="7168ac5e-e996-4d68-a3ec-3ccadf389ad0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +20,7 @@
       <file leaf-file-name="HuffmanCode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/greedyAlgorithms/HuffmanCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="-1188">
               <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="method#HuffmanCode#0;class#HuffmanCode#0" expanded="false" />
@@ -333,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513014992217</updated>
       <workItem from="1513015002862" duration="194000" />
-      <workItem from="1513534645218" duration="2443000" />
+      <workItem from="1513534645218" duration="2673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2637000" />
+    <option name="totallyTimeSpent" value="2867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1061" extended-state="0" />
@@ -464,7 +438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/greedyAlgorithms/HuffmanCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="-1188">
           <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
             <element signature="method#HuffmanCode#0;class#HuffmanCode#0" expanded="false" />

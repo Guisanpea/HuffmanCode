@@ -369,25 +369,9 @@ public class HuffmanCode {
 	 * @throws IOException 
 	 */
 	private int getSymbol(FileInputStream inFile, HuffmanTree T) throws IOException {
-		// COMPLETE THIS FUNCTION
-		// ----------------------
-		// Private field 'buffer' is a string of "0"s and "1s". If this string is empty you need
-		// to read a byte from the input file and convert it into a binary string to be stored in
-		// 'buffer' (see function byteToBinary()).
-		//
-		// You can then get the first bit from the buffer (and remove it) and use it to navigate 
-		// the Huffman tree, moving to the left or right branch. This process will be repeated
-		// until you get to a leaf of the tree and return the corresponding symbol. Note that
-		// you may exhaust the buffer in the process and may have to read further bytes from the
-		// input file.
-		//
-		// You can add additional methods if necessary.
-		//
-
 		char symbol = traverseTree(inFile, T);
-		
-		return symbol; 	// change this line appropriately (or delete it altogether) when you
-					// complete this method.
+
+		return symbol;
 	}
 
 
