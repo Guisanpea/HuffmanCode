@@ -301,25 +301,9 @@ public class HuffmanCode {
 	private void generate(Map<Character, Integer> frequencies) {
 		PriorityQueue<HuffmanTree> treeList = new PriorityQueue<HuffmanTree>(frequencies.size());
 		TreeSet<Character> elements = new TreeSet<Character>(frequencies.keySet());
-		// we use a TreeSet to have a sorted list of symbols, so that every time
-		// the code is reconstructed for the same set of symbols and frequencies we get
-		// the same result.
 
-		// Create the initial list of trees (each tree is just a leaf with a symbol)
-		// sorted according to the frequency of the symbol.
 		for (Character c : elements)
 	        treeList.add(new HuffmanTree(c, frequencies.get(c)));
-		
-		// COMPLETE THIS FUNCTION
-		// ----------------------
-		// You have to create the Huffman tree (to be finally stored in field 'tree')
-		// and use it to extract the code (a string of "0"s and "1"s) associated to
-		// each symbol in the tree. This information has to be stored in field
-		// 'tableEncoding', which is a Map<Character, String>. You can use a 
-		// Hashtable<Character, String> for this.
-		//
-		// You can add additional methods if necessary.
-		//
 
         mergeTrees(treeList);
         this.tree = treeList.element();
